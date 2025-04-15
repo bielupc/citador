@@ -35,5 +35,5 @@ The project can be ran and inspected locally by installing all the necesary requ
 
 
 ## 🚀 About Me
-Check out more about my work in my [GitHub profile](https://github.com/BielAltimira/price) or visit my [LinkedIn profile](https://www.linkedin.com/in/biel-altimira-tarter/).
+Check out more about my work in my [GitHub profile](https://github.com/bielupc) or visit my [LinkedIn profile](https://www.linkedin.com/in/biel-altimira-tarter/).
 
